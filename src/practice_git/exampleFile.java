@@ -1,8 +1,8 @@
 package practice_git;
 
 public class exampleFile {
+	//お試し
 	
-/*
-	gitを使いこなしたい
-*/
+	//変更1
+
 }
