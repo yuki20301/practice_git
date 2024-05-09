@@ -5,5 +5,4 @@ public class exampleFile {
 /*
 	gitを使いこなしたい
 */
-	
 }
