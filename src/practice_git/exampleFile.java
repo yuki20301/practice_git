@@ -5,4 +5,5 @@ public class exampleFile {
 	
 	//変更1
 
+	//変更2
 }
